@@ -15,7 +15,9 @@ Da in der konzeptionellen Arbeit kein git client vorausgesetzt werden kann, steh
 * [Projekt-Ideen](https://docs.google.com/document/d/1dTdHx2n1XvYyQBmdRM4_tAG2lzwAAaEsX16C0VvjpQc/edit#)
     * Hintergrund, Motivation, Ziele
     * Weiterentwicklungs-Ideen
-* Use Cases, Workflows/Wireframes (Link: TODO)
+* Use Cases, Workflows/Wireframes
+   * [KaufZeit](https://docs.google.com/document/d/1MVUTrf8dxw5xvpJA8efsRrQPesOFPtIQojVFW3Z6Qk0/edit)
+   * [Lokale Leistungen B2C buchen](https://docs.google.com/document/d/16HvZhY2_IDkH3zZ5M8hx7vvMku4gMnuDqYBmL418MRs/edit?usp=sharing)
 * [Screen-Designs (UI)](https://drive.google.com/drive/folders/1J9gG9F81RqCNZqr7u3pXlBzgGf4O4att)
 
 Dokumente, die nicht gemeinsam bearbeitet werden müssen (z.B. Templates, Hintergrund-Informationen, Link-Sammlungen u.ä.), können direkt im Repository abgelegt werden.
